@@ -1,3 +1,12 @@
+/*
+ Nama        : Muhammad Faiz Qodri Muslim
+ NIM         : 2610511179
+ Kelas       : E
+ Modul       : 6
+ Deskripsi   : Debugging Challenge 2 - rekap penjualan 3 hari x 4 transaksi.
+               Program asal memiliki 7 kesalahan yang telah diperbaiki.
+*/
+
 #include <stdio.h>
 
 int main(void)

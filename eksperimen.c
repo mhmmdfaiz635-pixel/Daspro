@@ -1,7 +1,7 @@
 /*
- Nama        :
- NIM         :
- Kelas       :
+ Nama        : Muhammad Faiz Qodri Muslim
+ NIM         : 2610511179
+ Kelas       : E
  Modul       : 6
  Deskripsi   : Program dasar untuk 10 eksperimen perubahan nested loop.
 */

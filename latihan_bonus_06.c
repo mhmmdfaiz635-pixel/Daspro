@@ -1,7 +1,7 @@
 /*
- Nama        :
- NIM         :
- Kelas       :
+ Nama        : Muhammad Faiz Qodri Muslim
+ NIM         : 2610511179
+ Kelas       : E
  Modul       : 6
  Deskripsi   : Level 5 - menghitung banyaknya hasil kali genap dalam
                tabel perkalian n x m menggunakan nested loop.
